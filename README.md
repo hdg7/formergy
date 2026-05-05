@@ -105,3 +105,10 @@ Formegy is primarily intended for:
 ## Status
 
 This repository is **experimental and research-focused**. APIs, metrics, and optimization strategies may evolve as the project matures.
+
+---
+
+## License
+
+Apache 2.0
+
