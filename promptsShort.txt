@@ -1,0 +1,5 @@
+Explain the difference between unit tests and integration tests in one short paragraph.
+List three practical tips for staying focused while studying.
+Write a concise Python function that checks if a string is a palindrome.
+Summarize what a database index is and why it can speed up queries.
+Give two pros and two cons of remote work.
