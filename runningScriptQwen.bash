@@ -1,4 +1,4 @@
-OApython nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
@@ -11,7 +11,7 @@ OApython nsga2_ollama_energy_refactor_sem_families.py \
   --pop-size 20 --generations 32 \
   --results-csv nsga2_results_qwenComplexAll1.csv --plot
 
-python nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
@@ -21,7 +21,7 @@ python nsga2_ollama_energy_refactor_sem_families.py \
   --pop-size 20 --generations 32 \
   --results-csv nsga2_results_qwenComplexPrec1.csv --plot
 
-python nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
@@ -31,7 +31,7 @@ python nsga2_ollama_energy_refactor_sem_families.py \
   --pop-size 20 --generations 32 \
   --results-csv nsga2_results_qwenComplexMemory1.csv --plot
 
-python nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
@@ -41,7 +41,7 @@ python nsga2_ollama_energy_refactor_sem_families.py \
   --pop-size 20 --generations 32 \
   --results-csv nsga2_results_qwenComplexStructure1.csv --plot
 
-python nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
@@ -51,7 +51,7 @@ python nsga2_ollama_energy_refactor_sem_families.py \
   --pop-size 20 --generations 32 \
   --results-csv nsga2_results_qwenComplexAlgorithm1.csv --plot
 
-python nsga2_ollama_energy_refactor_sem_families.py \
+python formegy.py \
   --model-id Qwen/Qwen2.5-Coder-3B-Instruct \
   --ollama-model qwen3-coder-next \
   --prompt-file promptsShort.txt \
